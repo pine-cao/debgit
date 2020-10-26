@@ -1,1 +1,6 @@
+
 this is debian toturfile
+git init
+git add xxx.txt
+git commit -m "xyxlll"
+git is a free software
