@@ -1,0 +1,4 @@
+#!/bin/sh
+fuser -k /usr/share/application/HttpServer
+echo kill sv 
+
