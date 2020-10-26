@@ -1,0 +1,6 @@
+package: HttpServer
+version: 1.0.0
+architecture: mips64el
+maintainer: Test                              
+description: Test Project
+
