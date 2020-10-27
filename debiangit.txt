@@ -1,0 +1,20 @@
+
+#free for recording some commands.
+#git is a free software,git is a distributed version control system.
+#just a test for git on linux or windows OS.
+#this is debian toturfile.
+
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+git init
+git add xxx.txt
+git commit -m "xyxlll"
+git status
+git diff
+git log
+git log --pretty=oneline
+git reset --hard HEAD^
+git reset --hard HEAD~5
+git reset --hard 49bdb2
+git reflog
+
