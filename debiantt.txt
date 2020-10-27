@@ -1,10 +1,13 @@
 
+#free for recording some commands.
+#git is a free software,git is a distributed version control system.
+#just a test for git on linux or windows OS.
+#this is debian toturfile.
 
-just a test for git , linux or windows OS.
-this is debian toturfile
 git init
 git add xxx.txt
 git commit -m "xyxlll"
-git is a free software
 git status
 git diff
+
+
