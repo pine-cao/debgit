@@ -17,4 +17,6 @@ git reset --hard HEAD^
 git reset --hard HEAD~5
 git reset --hard 49bdb2
 git reflog
+git remote add origin https://github.com/pine-cao/debgit.git
+git push -u origin master
 
